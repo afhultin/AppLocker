@@ -37,7 +37,3 @@ AppLocker/
 - macOS 13+ (Ventura)
 - Xcode 14+
 - Mac with Touch ID (falls back to password on Macs without it)
-
-## Build
-
-Open `AppLocker.xcodeproj` in Xcode and hit Run.
